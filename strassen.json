@@ -1,0 +1,3384 @@
+{
+  "source": "Landeshauptstadt Düsseldorf – Straßenverzeichnis LHD 2025",
+  "data_stand": "Januar 2025",
+  "districts": [
+    "Rath",
+    "Derendorf",
+    "Pempelfort",
+    "Düsseltal",
+    "Flingern Süd",
+    "Flingern Nord",
+    "Mörsenbroich",
+    "Ludenberg",
+    "Hubbelrath",
+    "Gerresheim",
+    "Grafenberg"
+  ],
+  "street_count": 841,
+  "streets": [
+    {
+      "name": "Aaper Höhenweg",
+      "district": "Rath"
+    },
+    {
+      "name": "Aaper Schneise",
+      "district": "Rath"
+    },
+    {
+      "name": "Am Backesberg",
+      "district": "Rath"
+    },
+    {
+      "name": "Am Bauenhaus",
+      "district": "Rath"
+    },
+    {
+      "name": "Am Bockskothen",
+      "district": "Rath"
+    },
+    {
+      "name": "Am Gatherhof",
+      "district": "Rath"
+    },
+    {
+      "name": "Am Götzenkothen",
+      "district": "Rath"
+    },
+    {
+      "name": "Am Hülserhof",
+      "district": "Rath"
+    },
+    {
+      "name": "Am Röhrenwerk",
+      "district": "Rath"
+    },
+    {
+      "name": "Am Schürberg",
+      "district": "Rath"
+    },
+    {
+      "name": "Am Schüttenhof",
+      "district": "Rath"
+    },
+    {
+      "name": "Am Wackerzapf",
+      "district": "Rath"
+    },
+    {
+      "name": "Amalienstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Aplerbecker Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Arcadiastraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Artusstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Bauenhäuser Weg",
+      "district": "Rath"
+    },
+    {
+      "name": "Bochumer Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Boskampweg",
+      "district": "Rath"
+    },
+    {
+      "name": "Brackeler Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Dachsbergweg",
+      "district": "Rath"
+    },
+    {
+      "name": "Davidstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "DEG-Platz",
+      "district": "Rath"
+    },
+    {
+      "name": "Derfflingerstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Dorstener Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Dortmunder Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Driburger Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Dülmener Weg",
+      "district": "Rath"
+    },
+    {
+      "name": "Eckampstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Eggerscheidter Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Eickeler Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Eitelstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Fahneburgstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Fehrbellinstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Felderhof",
+      "district": "Rath"
+    },
+    {
+      "name": "Forsthaussteig",
+      "district": "Rath"
+    },
+    {
+      "name": "Fritz-von-Wille-Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Frobenstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Gelsenkirchener Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Grütersaaper Weg",
+      "district": "Rath"
+    },
+    {
+      "name": "Harpener Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Hasper Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Hattinger Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Helmutstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Herdecker Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Herner Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Hetjensstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Hirschweg",
+      "district": "Rath"
+    },
+    {
+      "name": "Hörder Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Hülsmeyerplatz",
+      "district": "Rath"
+    },
+    {
+      "name": "In den Diken",
+      "district": "Rath"
+    },
+    {
+      "name": "Iserlohner Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Jean-Paul-Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Kanzlerstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Kastanienallee",
+      "district": "Rath"
+    },
+    {
+      "name": "Kettelbecksweg",
+      "district": "Rath"
+    },
+    {
+      "name": "Kürtenstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Lenaustraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Liliencronstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Lintorfer Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Lünener Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Marler Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Marxsteig",
+      "district": "Rath"
+    },
+    {
+      "name": "Mörsenbroicher Weg",
+      "district": "Rath"
+    },
+    {
+      "name": "Mühlenbroich",
+      "district": "Rath"
+    },
+    {
+      "name": "Mühlenbroicher Weg",
+      "district": "Rath"
+    },
+    {
+      "name": "Münchhausenweg",
+      "district": "Rath"
+    },
+    {
+      "name": "Münsterstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Neuenhofstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Nördlicher Zubringer",
+      "district": "Rath"
+    },
+    {
+      "name": "Oberhausener Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Oberrather Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Osterfelder Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Pahlshof",
+      "district": "Rath"
+    },
+    {
+      "name": "Rather Broich",
+      "district": "Rath"
+    },
+    {
+      "name": "Rather Kirchplatz",
+      "district": "Rath"
+    },
+    {
+      "name": "Rather Kreuzweg",
+      "district": "Rath"
+    },
+    {
+      "name": "Rather Markt",
+      "district": "Rath"
+    },
+    {
+      "name": "Rather Steig",
+      "district": "Rath"
+    },
+    {
+      "name": "Recklinghauser Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Rehstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Reichswaldallee",
+      "district": "Rath"
+    },
+    {
+      "name": "Rennbahnstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Robinsonweg",
+      "district": "Rath"
+    },
+    {
+      "name": "Rolandssteig",
+      "district": "Rath"
+    },
+    {
+      "name": "Rotdornstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Röhrenstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Rückertstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Rüdigerstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Sandsteig",
+      "district": "Rath"
+    },
+    {
+      "name": "Sankt-Franziskus-Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Schießstandweg",
+      "district": "Rath"
+    },
+    {
+      "name": "Schwerter Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Selbecker Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Tevernstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Theodorstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Tönnesaaper Weg",
+      "district": "Rath"
+    },
+    {
+      "name": "Wahlerstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Waldstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Wattenscheider Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Weitmarer Platz",
+      "district": "Rath"
+    },
+    {
+      "name": "Weitmarer Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Wendersstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Westfalenstraße",
+      "district": "Rath"
+    },
+    {
+      "name": "Wilhelm-Raabe-Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Wilhelm-Suter-Pfad",
+      "district": "Rath"
+    },
+    {
+      "name": "Wilhelm-Unger-Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Wittener Straße",
+      "district": "Rath"
+    },
+    {
+      "name": "Wolfsaaper Steig",
+      "district": "Rath"
+    },
+    {
+      "name": "Zum Gut Heiligendonk",
+      "district": "Rath"
+    },
+    {
+      "name": "Am Adershof",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Am Nordfriedhof",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Am Tannenwäldchen",
+      "district": "Derendorf"
+    },
+    {
+      "name": "An der Piwipp",
+      "district": "Derendorf"
+    },
+    {
+      "name": "An der Ulanenkaserne",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Barbarastraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Baumstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Becherstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Bloemstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Blumenthalstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Bueckstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Bülowstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Collenbachstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Danziger Straße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Derendorfer Allee",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Diedenhofener Straße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Edith-Stein-Weg",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Elfriede-Bial-Straße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Erna-Scheffler-Straße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Esperantostraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Essener Straße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Eulerstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Frankenplatz",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Frankenstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Füsilierstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Geistenstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Gerhardstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Glockenstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Golzheimer Straße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Gravelottestraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Heinrich-Ehrhardt-Straße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Hermann-Reuter-Straße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Hilde-und-Joseph-Neyses-Platz",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Hugo-Viehoff-Straße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Höxterweg",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Johannstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Jülicher Straße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Kanonierstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Karl-Friedrich-Klees-Straße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Kriegerstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Lemgoer Weg",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Luppstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Merziger Straße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Metzer Straße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Möhlaustraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Münsterplatz",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Münsterstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Ottweilerstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Platz der Ideen",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Rather Straße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Rheinbabenstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Rheinmetall-Allee",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Rheinmetall-Platz",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Rose-Ausländer-Straße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Roßstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Rudolf-Lupp-Platz",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Römerstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Saarbrücker Straße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Schimmelbuschstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Sommersstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Spichernplatz",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Spichernstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Straßburger Straße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Tannenstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Thewissenweg",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Toulouser Allee",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Ulanenstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Ulmenstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Ulrike-Scheffler-Rother-Straße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Weißenburgstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Wörthstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Yorckstraße",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Zur alten Exerzierhalle",
+      "district": "Derendorf"
+    },
+    {
+      "name": "Adlerstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Adolph-von-Vagedes-Platz",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Alt-Pempelfort",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Am Wehrhahn",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Annastraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Arndtstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Arnoldstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Augustastraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Bagelstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Benedikt-Schmittmann-Straße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Berty-Albrecht-Park",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Beuthstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Blücherstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Bongardstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Brüderstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Camphausenstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Carl-Mosterts-Platz",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Cecilienallee",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Collenbachstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Cordobastraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Couvenstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Derendorfer Straße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Duisburger Straße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Düsselthaler Straße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Ehrenhof",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Ehrenstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Emilie-Preyer-Platz",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "ERGO-Platz",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Eulerstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Feldstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Fischerstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Franklinstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Freiligrathstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Gartenstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Gneisenaustraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Goebenstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Helmut-Hentrich-Platz",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Hofgartenrampe",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Hofgartenstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Inselstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Jacobistraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Jordanstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Joseph-Beuys-Ufer",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Jägerhofstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Jülicher Straße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Kaiserstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Kaiserswerther Straße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Kapellstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Klever Straße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Kolpingplatz",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Kurt-Baurichter-Straße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Lennéstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Liebigstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Louis-Pasteur-Platz",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Louise-Dumont-Straße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Ludwig-Wolker-Straße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Luise-Oppenheimer-Platz",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Malkastenstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Marc-Chagall-Straße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Maria-und-Josef-Otten-Platz",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Marschallstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Mauerstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Maurice-Ravel-Park",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Maximilian-Weyhe-Allee",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Moltkestraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Mozartstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Münsterstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Nettelbeckstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Nord Carree",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Nordstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Oberkasseler Brücke",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Oederallee",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Parkstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Pempelforter Straße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Pfalzstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Prinz-Georg-Straße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Ratinger Tor",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Robert-Lehr-Ufer",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Rochusmarkt",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Rochusstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Rosengasse",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Rosenstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Roßstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Scharnhorststraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Scheibenstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Schinkelstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Schirmerstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Schloßstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Schwerinstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Schäferstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Sittarder Straße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Sterngasse",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Sternstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Stockkampstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Taubenstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Tonhallen-Ufer",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Toulouser Allee",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Tußmannstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Vagedesstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Venloer Straße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Victoriaplatz",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Wielandstraße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Winkelsfelder Straße",
+      "district": "Pempelfort"
+    },
+    {
+      "name": "Achenbachstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Ahnfeldstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Altdorferstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Am Schnepfenhof",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "ARAG-Platz",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Bodinusstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Boltensternstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Brahmsplatz",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Brehmplatz",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Brehmstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Buddestraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Buscherstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Chamissostraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Clara-Viebig-Straße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Düsselkämpchen",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Eduard-Schloemann-Straße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Faunastraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Freytagstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Friedrich-Springorum-Straße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Fritz-Wüst-Straße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Gellertstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Gengerstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Goethestraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Graf-Recke-Straße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Grafenberger Allee",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Grashofstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Grunerstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Hallbergstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Hans-Sachs-Straße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Hansaplatz",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Harleßstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Hebbelstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Hedwig-Jung-Danielewicz-Straße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Heinrichstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Herderstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Holbeinstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Hompeschstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Humboldtstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Im Rottfeld",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Ivo-Beucker-Straße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Karl-Müller-Straße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Klopstockstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Kühlwetterstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Lacombletstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Lindemannstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Liststraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Löbbeckestraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Mathildenstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Maurenbrecherstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Max-Planck-Straße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Maybachstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Mercedesstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Mulvanystraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Mülheimer Straße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Münsterstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Ostendorfstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Otto-Petersen-Straße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Paulusplatz",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Paulusstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Peter-Janssen-Straße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Redlichstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Rembrandtstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Rethelstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Rubensstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Scheidtstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Schillerplatz",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Schillerstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Schumannstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Simrockstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Sohnstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Speldorfer Straße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Stückerstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Sybelstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Tiergartenstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Uhlandstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Vautierstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Weseler Straße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Willi-Aengevelt-Straße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Windscheidstraße",
+      "district": "Düsseltal"
+    },
+    {
+      "name": "Albertstraße",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "An der Icklack",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "Behrenstraße",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "Binnenstraße",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "Dorotheenstraße",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "Engelbertstraße",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "Erkrather Straße",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "Fichtenstraße",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "Gerresheimer Straße",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "Gruitener Straße",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "Hubbelrather Straße",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "Höherweg",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "Kettwiger Straße",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "Kiefernstraße",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "Krahestraße",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "Langenberger Straße",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "Langerstraße",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "Mettmanner Straße",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "Pinienstraße",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "Platz der Diakonie",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "Ronsdorfer Straße",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "Ruhrtalstraße",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "Vennhauser Straße",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "Werdener Straße",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "Wetterstraße",
+      "district": "Flingern Süd"
+    },
+    {
+      "name": "Ackerstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Altenbergstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Aschenbrödelweg",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Beethovenstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Benzstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Birkenstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Bruchstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Cranachplatz",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Cranachstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Daelenstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Daimlerstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Degerstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Dieselstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Dinnendahlstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Dornröschenweg",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Dorotheenplatz",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Dorotheenstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Edisonplatz",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Ehrenpreisweg",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Engerstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Eythstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Flinger Broich",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Flinger Richtweg",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Flurstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Fortunastraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Frank-Zappa-Straße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Froschkönigweg",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Gaußstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Gerresheimer Straße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Grafenberger Allee",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Hagebuttenweg",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Heinzelmännchenweg",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Hellweg",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Hermannplatz",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Hermannstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Hoffeldstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Hohenzollernallee",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Ilna-Wunderwald-Straße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Junkersstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Karl-Wagner-Platz",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Körtingstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Lichtstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Lindenplatz",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Lindenstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Luise-Rainer-Straße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Löwenzahnweg",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Lürmannstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Mendelssohnstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Metro-Straße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Neanderstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Neumannstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Oechelhäuserstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Platanenstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Rapunzelweg",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Rautendeleinweg",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Rosmarinstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Rotkäppchenweg",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Röpkestraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Rübezahlweg",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Schlüterstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Schneewittchenweg",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Schwabstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Schwelmer Straße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Sterntalerweg",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Struwwelpeterplatz",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Walter-Eucken-Straße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Wetterstraße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Wülfrather Straße",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Zum Märchenland",
+      "district": "Flingern Nord"
+    },
+    {
+      "name": "Am Birkenhain",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Am Holunderbusch",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Am Nussbaum",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Am Schein",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "An der Thomaskirche",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Auf dem Scheinsfeld",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Buchsbaumweg",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Eichengrund",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Ekkehardstraße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Erwin-Rommel-Straße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Eugen-Richter-Straße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Fontanestraße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Frauenlobweg",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Gerhart-Hauptmann-Straße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Graf-Recke-Straße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Grashofstraße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Grillparzerstraße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Habichtstraße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Haeselerstraße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Haselnussweg",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Heideweg",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Heinrichstraße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Herchenbachstraße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Hermann-Dornscheidt-Straße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Hermann-Hesse-Straße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Howeweg",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Hördtweg",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Im Dämmergrund",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "In der Gartenstadt",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Karl-Röttger-Platz",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Kreitenstraße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Lenaustraße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Ligusterweg",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Ludwig-Beck-Straße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Marie-Juchacz-Straße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Masbergweg",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Max-Halbe-Straße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Mörsenbroicher Weg",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Münsterstraße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Nördlicher Zubringer",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Opitzstraße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Pflugstraße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Radschlägerweg",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Robert-Stolz-Straße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Roseggerstraße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Roteichenweg",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Sankt-Franziskus-Straße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Scheffelstraße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Schopenhauerstraße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Schwietzkestraße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Spatenstraße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Stieglitzstraße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Säckinger Straße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Thomas-Mann-Straße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Trompeterstraße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Vinckestraße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Vogelsanger Weg",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Wenkerstraße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Wilhelm-Raabe-Straße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Wrangelstraße",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Zaunkönigweg",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Zur alten Kaserne",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Zur Weide",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Zur Wildkirsche",
+      "district": "Mörsenbroich"
+    },
+    {
+      "name": "Ahornblick",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Am Backesberg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Am Bongard",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Am Dernkamp",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Am Gallberg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Am Gartenkamp",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Am Geisterberg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Am Großen Dern",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Am Keienhof",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Am Moschenhof",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Am Ringofen",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Am Schulberg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Am Tiefenberg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Am Wackerzapf",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Am Wildpark",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "An der Kaiserburg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Anton-Fahne-Weg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Aprather Straße",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Bergische Landstraße",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Bismarckweg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Blanckertzstraße",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Bolderbergweg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Breitscheider Straße",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Dernbuschweg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Derner Hof",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Ernst-Poensgen-Allee",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Fahneburgstraße",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Forster Weg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Grafenberger Höhenweg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Gräulinger Straße",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Hahnenfurther Straße",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Hardter Höhenweg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Hirschburgweg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Hochdahler Straße",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Hülsmeyerstraße",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "In der Rehwiese",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Kastanienallee",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Kißbergweg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Kleineforstweg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Knittkuhler Straße",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Luckemeyerstraße",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Ludenberger Straße",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Marthastraße",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Mühlenbergweg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Peckhausweg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Pelmanstraße",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Poßbergweg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Pöhlenweg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Ratinger Weg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Rennbahnstraße",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Rodelbahn",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Rolander Weg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Rotthäuser Weg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Schellbergweg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Schöllerstraße",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Serpentine",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Trotzhofweg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Wandershofer Weg",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Wolfsschlucht",
+      "district": "Ludenberg"
+    },
+    {
+      "name": "Am Band",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Am Bürgerhaus",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Am Gieb",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Am Hülsfeld",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Am Koppelshof",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Am Scheidt",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Am Schmidtberg",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "An den Buchen",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "An der Linde",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "An Dreilinden",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Bergische Landstraße",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Bertelsweg",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Blumenrathweg",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Bruchhausen",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Conesweg",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Dorfstraße",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Dorper Weg",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Erkrather Landstraße",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Essersberg",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Gollenbergsweg",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Hasselbecker Straße",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Holterweg",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Hülsdeller Weg",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Ilbeckweg",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Klashausweg",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Knittkuhler Straße",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Lindenbecker Weg",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Mydlinghoven",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Pabsthofweg",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Ratinger Landstraße",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Ringstraße",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Rotthäuser Weg",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Sauerweg",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Schellscheidtweg",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Schäpershof",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Stratenweg",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Vogelskothen",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Winkelskothen",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Wulfertzberg",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Zum Höltgen",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Zum Winnenberg",
+      "district": "Hubbelrath"
+    },
+    {
+      "name": "Aggerweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Akazienallee",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Aloys-Odenthal-Platz",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Alte Insel",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Alter Markt",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Am Eulenthal",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Am Grünewald",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Am Holzkamp",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Am Irlenspahn",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Am Lehn",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Am Pesch",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Am Postsportplatz",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Am Poth",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Am Quellenbusch",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Am Schulberg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Am Venn",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Am Wallgraben",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Am Zollhaus",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "An der Leimkuhle",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Apostelplatz",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Auf den Kuhbenden",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Auf der Gemarke",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Auf der Hardt",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Baltenstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Baseler Weg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Bebraer Weg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Beginengässchen",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Bellscheidtstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Benderstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Bergische Landstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Berner Weg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Bertastraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Beverweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Bieler Weg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Blombachweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Brölweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Büdingenstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Cottbusser Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Deilbachweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Dickelsbachweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Diepenstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Dornaper Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Dreherstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Dreifaltigkeitsstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Dörpeweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Dörpfeldstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Eifgenweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Eisenacher Weg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Ennepeweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Eschbachweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Feldersbachweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Flachsmarkt",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Flaschenstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Friedingstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Friedrich-Wilhelm-Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Fröbelstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Genfer Weg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Gerricusplatz",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Gerricusstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Glasbläserstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Glashüttenstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Gothaer Weg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Gräfrather Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Gräulinger Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Gudastraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Gustav-Kneist-Weg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Gödinghover Weg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Hagener Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Hallesche Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Hardenbergstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Hardter Höhenweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Hasselbeckstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Hatzfeldstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Haubachweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Heckteichstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Heilenbeckeweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Heinrich-Könn-Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Helena-Curtens-und-Agnes-Olmans-Platz",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Heyestraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Höherhofstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Ikenstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Im Brühl",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Im Heidewinkel",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "In den Benden",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "In der Meide",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Isenburgstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Josef-Neuberger-Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Kamper Weg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Karl-Heinz-Bott-Weg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Karlsbader Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Katharinenstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Keldenichstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Klotzbahn",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Kölner Tor",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Künnestraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Lakronstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Laubachstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Leierbachweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Lippstadtstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Lobensteiner Weg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Lohbachweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Ludenberger Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Luzerner Weg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Lüdenscheider Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Mansfeldstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Manthenstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Marie-Curie-Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Meißener Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Merseburger Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Metzkauser Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Mirkerbachweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Morper Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Morsbachweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Märkische Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Nach den Mauresköthen",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Nachtigallstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Neunzigstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Neusser Tor",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Nevigesstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Neyeweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Norbert-Schmidt-Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Nymphenburgstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Oberlinstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Ottostraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Owensstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Paul-Pieper-Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Paulinenstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Peckhausweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Pfeffergäßchen",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Pfeifferstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Pilgerweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Pillebachweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Pirnaer Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Portastraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Pöhlenweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Quadenhofstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Radeberger Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Rampenstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Regenbergastraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Reichenbacher Weg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Rigastraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Rosenthalstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Rotthäuser Weg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Saalfelder Weg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Schaffhausener Weg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Scheerenburger Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Schleizer Weg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Schreberweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Schwarzbachstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Schönaustraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Sengbachweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Sichelstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Siedlerweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Sonnbornstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Sorpeweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Speestraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "St.-Hippolyt-Weg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Stapelbachweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Steinweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Stockgartenfeld",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Sulzbachstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Synagogenweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Tannenhofweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Taubenbergstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Teutoburgstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Thuner Weg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Toni-Kryn-Weg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Torfbruchstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Truchseßstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Uelfeweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Unter den Eichen",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Ursula-Trabalski-Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Vereinsstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Volmeweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Von-Gahlen-Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Wambachweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Weimarer Weg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Wiebachweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Zamenhofweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Zittauer Straße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Zuger Weg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Zur Düsselaue",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Zweibrückenstraße",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Züricher Weg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Ölbachweg",
+      "district": "Gerresheim"
+    },
+    {
+      "name": "Altenbergstraße",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Borussia-Düsseldorf-Straße",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Brabantstraße",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Brandenburgstraße",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Bruno-Recht-Weg",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Burgmüllerstraße",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Böcklinstraße",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Ernst-Poensgen-Allee",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Gehrtsstraße",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Geibelstraße",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Graf-Recke-Straße",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Grafenberger Allee",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Grimmstraße",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Gutenbergstraße",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Hardtstraße",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Irmgardstraße",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Karl-Ludwig-Resch-Weg",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Kieselstraße",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Lenaustraße",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Limburgstraße",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Ludenberger Straße",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Margaretenstraße",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Mörsenbroicher Weg",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Neuburgstraße",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Otto-Götzen-Weg",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Pöhlenweg",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Schubertstraße",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Simrockstraße",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Staufenplatz",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Sulzbachstraße",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Vautierstraße",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Wittelsbachstraße",
+      "district": "Grafenberg"
+    },
+    {
+      "name": "Zweibrückenstraße",
+      "district": "Grafenberg"
+    }
+  ]
+}
